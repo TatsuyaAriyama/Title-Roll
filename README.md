@@ -1,6 +1,6 @@
 # Title Roll
 
-名前を入力すると、その日の肩書きをランダムで表示する超ミニPython CLIです。
+名前を入力すると、その日の肩書きをランダム表示するミニPython CLIです。
 
 ## Usage
 ```bash
